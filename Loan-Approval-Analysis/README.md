@@ -9,9 +9,15 @@ After completing this project, I got  a better grip on working with pandas. In t
 
 ### Approach taken to solve the problem:
 The following major steps were taken to solve the project:
+
 STEP 1: To check which variable is categorical and which one is numerical to get a basic idea about the features of the bank dataset
+
 STEP 2: To check which columns have missing values and also check the count of missing values each column has. If the columns have missing values, then fill them
+
 STEP 3: To check loan amount of an avg person based on Gender, marriage status and employment status
+
 STEP 4: To check percentage of loan approved based on a person's employment type
+
 STEP 5: To find applicants with long loan amount term
+
 STEP 6: To check avg income of an applicant and the average loan given to a person based on their income
