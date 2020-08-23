@@ -1,10 +1,11 @@
+### Project Overview
 Use matplotlib library in python to visualize company stats inn a comprehensive way. 
 After completing this project, I got a better understanding of various data visualization techniques. In this project, I applied the following concepts:
-Bar plotting
-Scatter plotting
-Kernel Density plotting
-Subplot operations
-Axes modifications
+1. Bar plotting
+2. Scatter plotting
+3. Kernel Density plotting
+4. Subplot operations
+5. Axes modifications
 
 The following were the major steps involved in the project:
 STEP 1: Visualizing Company's records wrt loan approvals
